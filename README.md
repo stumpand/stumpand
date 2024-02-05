@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feynTune
-- 👀 I’m interested in data science and mathematical computing.
-- 🌱 I’m currently learning Python and ML
+- 👀 I’m interested in data science and mathematical computing
+
 
 <!---
 feynTune/feynTune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
