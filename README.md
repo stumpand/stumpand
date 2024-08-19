@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @feynTune
-- 👀 I’m interested in data science and mathematical computing
+- 👋 Hi, I’m @stumpand
+- 👀 I’m interested in data, ed tech, and mathematical computing
 
 
 <!---
